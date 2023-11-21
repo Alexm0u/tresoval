@@ -1,0 +1,23 @@
+/* home.component.css */
+
+.home {
+    background-image: url(../../../assets/img/soldador-bg.jpg);;
+    background-size: 100% auto;
+    background-repeat: no-repeat; /* Ajusta el ancho y adapta la altura automáticamente */
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  
+
+
+  
