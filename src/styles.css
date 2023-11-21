@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+/* Estilos personalizados */
+@font-face {
+    font-family: 'Poppins';
+    src: url('../src/assets/fonts/Poppins-Regular.ttf') format('truetype');
+    /* Agrega otras variantes si las tienes, como Poppins-Bold, etc. */
+  }
+  
